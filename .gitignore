@@ -105,3 +105,7 @@ dist
 
 #package-locked
 package-lock.json
+
+#ignore compressed files
+assets/main.js
+*.mini.css
